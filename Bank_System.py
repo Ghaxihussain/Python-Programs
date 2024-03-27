@@ -89,8 +89,8 @@ class Bank:
 # Example usage:
 bank = Bank()
 
-bank.create_account("12345678", "John Doe")
-bank.create_account("98765432", "Jane Smith")
+bank.create_account("12345678", "Ghazi")
+bank.create_account("98765432", "Hussain")
 
 bank.deposit("12345678", 1000)
 bank.deposit("98765432", 500)
