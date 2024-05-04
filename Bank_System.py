@@ -85,8 +85,6 @@ class Bank:
     
 
 
-
-# Example usage:
 bank = Bank()
 
 bank.create_account("12345678", "Ghazi")
